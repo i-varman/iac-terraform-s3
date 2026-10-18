@@ -18,7 +18,6 @@ Defined an Amazon S3 bucket and an uploaded object in Terraform, then provisione
 | **Goal** | Create and manage AWS infrastructure as code instead of clicking in the console |
 | **Tools** | Terraform, AWS CLI, Amazon S3 |
 | **Resources created** | One S3 bucket and one uploaded S3 object |
-| **Time taken** | ~50 to 60 minutes |
 | **Hardest part** | Configuring the correct AWS credentials |
 
 ## Workflow
